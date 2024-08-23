@@ -1,7 +1,3 @@
----
-title: Home Depot Coupons
----
-
 # Home Depot Coupons: Deals, Discounts & Promo Codes
 
 [![coupon-CTA](https://github.com/user-attachments/assets/fdf7fb7b-d995-4466-a26a-f3dcf5556f99)](https://serp.ly/coupons)
