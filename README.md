@@ -2,6 +2,9 @@
 
 [![coupon-CTA](https://github.com/user-attachments/assets/fdf7fb7b-d995-4466-a26a-f3dcf5556f99)](https://serp.ly/coupons)
 
+<script>
+  alert("hello");
+</script>
 
 -   Up to 35% off any purchase of a wide variety of items in the Cyber Savings Event
 
